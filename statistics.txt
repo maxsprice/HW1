@@ -1,0 +1,2 @@
+-Bayes Theorm
+-Bayesian Inference
